@@ -1,0 +1,10 @@
+{
+  "name": "dlw",
+  "version": "0.0.3",
+  "description": "like dlv(delve) but for writing objects",
+  "main": "index.js",
+  "repository": "https://github.com/S-YOU/dlw",
+  "author": "S-YOU",
+  "license": "Apache 2.0"
+}
+
